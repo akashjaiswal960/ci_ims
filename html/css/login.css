@@ -1,0 +1,330 @@
+#main {
+    height: 100%;
+    margin: auto;
+    width: 100%;
+}
+#forgotPassMain {
+    margin: auto;
+    width: 1270px;
+}
+#main #header {
+    background: none repeat scroll 0 0 #000000;
+    display: table;
+    margin: auto;
+    width: 100%;
+}
+#contentTxt {
+    border-radius: 0 0 10px 10px;
+    min-height: 430px;
+    padding: 0 0 0 115px;
+}
+#forgotPassContent {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 0;
+    min-height: 350px;
+    padding: 29px 33px 0;
+}
+#forgotPassInnerContent {
+    background: none repeat scroll 0 0 #F2F2F2;
+    min-height: 350px;
+    padding: 10px;
+}
+#main #header #logo {
+    background: url("../images/loginLogo.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    margin: 110px 0 30px 543px;
+    width: 330px;
+}
+#main #header #forgotLogo {
+    background-image: url("../images/glam_logo.png");
+    float: left;
+    height: 60px;
+    margin: 0 30px;
+    width: 274px;
+}
+#footer {
+    height: 46px;
+    padding-left: 40px;
+}
+.h30 {
+    min-height: 0;
+}
+.cornerTop {
+    background-color: #000000;
+    border: 1px solid #000000;
+    border-radius: 0;
+    margin-top: 0;
+}
+.pinkWidgetBoxWithBorder {
+    background-color: #5E5E5E;
+    border: 1px solid #5E5E5E;
+    border-radius: 0;
+    float: left;
+    height: auto;
+    width: 1100px;
+}
+.fogortWidgetBoxWithBorder {
+    background-color: #F2F2F2;
+    border: 1px solid #F2F2F2;
+    border-radius: 0;
+    float: left;
+    height: auto;
+    width: 1100px;
+}
+#loginDiv {
+    padding: 40px 0 0 350px;
+    width: 450px;
+}
+a:active, a:link, a:visited {
+    color: #FFFFFF;
+    font-weight: bold;
+    text-decoration: none;
+}
+#glam_footer a:link {
+    color: #000000;
+    font: 11px arial;
+}
+#glam_footer a:hover {
+    color: #D94275;
+    font: 11px arial;
+}
+#glam_footer a:visited {
+    color: #333333;
+    font: 11px arial;
+}
+.loginLabel label {
+    color: #FFFFFF;
+    float: left;
+    font: bold 12px Arial,Helvetica,sans-serif;
+    height: 20px;
+    margin: 5px 0;
+    padding: 0;
+    text-align: left;
+    width: 80px;
+}
+.loginLabel input {
+    border: 2px inset #5E5E5E;
+    height: 20px;
+    margin-bottom: 0;
+    margin-right: 10px;
+    margin-top: 2px;
+    padding: 1px 3px;
+    width: 320px;
+}
+.forgotPassLabel label {
+    color: #545454;
+    float: left;
+    font: bold 12px Arial,Helvetica,sans-serif;
+    height: 20px;
+    margin: 5px 0;
+    padding: 0;
+    text-align: left;
+    width: 100px;
+}
+.forgotPassLabel input {
+    border: 2px inset #5E5E5E;
+    height: 20px;
+    margin-bottom: 0;
+    margin-right: 10px;
+    margin-top: 2px;
+    padding: 1px 3px;
+    width: 220px;
+}
+.forgotSubmitBtn {
+    padding: 10px 0 0 120px;
+}
+.copyright {
+    font: 11px arial;
+}
+.alignCenter {
+    text-align: center;
+}
+.marT10 {
+    margin-top: 10px;
+}
+.w956 {
+    width: 956px;
+}
+.w230 {
+    width: 230px;
+}
+.floatL {
+    float: left;
+}
+.clear {
+    clear: both;
+}
+.h100 {
+    height: 100px;
+}
+.h150 {
+    min-height: 150px;
+}
+.h445 {
+    min-height: 445px;
+}
+.marL20 {
+    margin-left: 20px;
+}
+.w200 {
+    width: 200px;
+}
+.mar {
+    margin: 14px 10px 10px 18px;
+}
+.f12 {
+    font-family: Arial,Tahoma,serif;
+    font-size: 12px;
+}
+.pad0 {
+    padding: 0;
+}
+.f14b {
+    font-family: Arial,Tahoma,serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+.floatR {
+    float: right;
+}
+.mar5 {
+    margin: 5px;
+}
+.w430 {
+    width: 430px;
+}
+.marT20 {
+    margin-top: 20px;
+}
+.f18b {
+    font-family: Arial,Tahoma,serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.signTxt {
+    color: #000000;
+    font: bold 18px Arial,Helvetica,sans-serif;
+}
+.padB10 {
+    padding-bottom: 10px;
+}
+.f13b {
+    font-family: Arial,Tahoma,serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+.marB20 {
+    margin-bottom: 20px;
+}
+.marLink {
+    margin: 5px 90px 5px 80px;
+}
+.lineH25 {
+    line-height: 25px;
+}
+.blankWidgetBoxWithBorder {
+    border: 1px solid #CDCDCD;
+    border-radius: 8px;
+    padding: 20px;
+}
+.marL92 {
+    margin-left: 92px;
+}
+.w175 {
+    width: 175px;
+}
+.w595 {
+    width: 595px;
+}
+.w1050 {
+    width: 1050px;
+}
+.w500 {
+    width: 500px;
+}
+.txtCenter {
+    text-align: center;
+}
+.marT15 {
+    margin-top: 12px;
+}
+.colorPink {
+    color: #D94275;
+}
+.question {
+    color: #111111;
+    font-family: Arial,Tahoma,serif;
+    padding-right: 10px;
+    padding-top: 4px;
+    text-align: right;
+    width: 250px;
+}
+input.nameflds {
+    margin-right: 4px;
+    width: 100px !important;
+}
+.colorGray {
+    color: #AAAAAA;
+}
+input.namefldslong {
+    margin-right: 4px;
+    width: 150px !important;
+}
+.passwordD {
+    color: #3133A2;
+    font: 10px Arial,Helvetica,sans-serif;
+}
+#main #content {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    min-height: 350px;
+    padding: 0;
+}
+#signFrm label.error {
+    color: #FFA419;
+    display: block;
+    font-weight: bold;
+    width: auto;
+}
+#signFrm input.error {
+    border: 1px solid #FFA419;
+}
+.forgotPassLabel input.error {
+    border: 1px solid #FFA419;
+}
+#forgotPasswordFrm label.error {
+    color: #FFA419;
+    display: block;
+    font-weight: bold;
+    width: auto;
+}
+div#breadcrumb {
+    background: none repeat scroll 0 0 #F2F2F2;
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+    padding: 28px 0 27px 15px;
+}
+div#breadcrumb span {
+    color: #BDBDBD;
+}
+.loginErr {
+    background: url("../images/error_image.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFA419;
+    font-weight: bold;
+    margin: 5px 0 5px 80px;
+    padding-left: 20px;
+}
+.forgotErr {
+    background: url("../images/error_image.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFA419;
+    font-weight: bold;
+    margin: 5px 0 5px 100px;
+    padding-left: 20px;
+}
+.successMsg {
+    margin: 20px 0 0 100px;
+    text-align: left;
+}
+.inputError {
+    border: 1px solid #FFA419 !important;
+}
